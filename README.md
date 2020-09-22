@@ -13,4 +13,4 @@ This tool can be used as an effective supplement to the traditional classroom ed
 6. Breath-first Search
 7. Depth-first Search
 
-
+<img src="https://i.ibb.co/xsvqC2K/algo.jpg" alt="algo" border="0" width=100% height="20%">
